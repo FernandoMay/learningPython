@@ -8,4 +8,4 @@ for i in range(arboles):
             altura*=2
         else:
             altura+=1
-    print(f'La altura para el arbol {i} es: {j} ')
+    print(f'La altura para el arbol {i} es: {altura} ')
